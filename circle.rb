@@ -1,6 +1,6 @@
 class Circle
-  def initialize(circle)
-    @circle = circle
+  def initialize(raidus)
+    @raidus = raidus
   end
 
 end
